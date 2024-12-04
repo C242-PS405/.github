@@ -14,3 +14,4 @@
 | A161B4KX4634 | Zulfikar Fadhillah | A161B4KX4634@bangkit.academy | Mobile Development | STMIK Bandung |
 
 ## Description 🚀
+Online gambling in Indonesia is an urgent problem that requires special attention from the government and society. There are 2.37 million online gambling participants of which 80,000 are under 10 years old indicating that online gambling poses a severe social and economic threat. Recent data shows that Indonesia suffers financial losses of up to IDR 600 trillion per year due to gambling, exceeding the state's important budget allocation. Recognizing the magnitude of the harm caused and the lack of similar solutions on the market, a unique prevention tool is needed to combat the social and economic impact of online gambling. This application combines resources and self-exclusion tools to help users resist the temptation of online gambling and seek professional help if necessary.
